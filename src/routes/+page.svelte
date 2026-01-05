@@ -4,3 +4,4 @@
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXTFRwk4pvnHBw0bD7D-G5hr2PmiCEkxYuXw&s" alt="mekanik">
+<a href="/detailspage">details page</a>
